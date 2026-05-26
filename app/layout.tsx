@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   title: 'Kaafe – Best & Widest Ganga View Cafe in Rishikesh',
   description: 'Experience the widest Ganga view in Rishikesh. A luxury riverside cafe offering breathtaking sunset views, gourmet cuisine, and a peaceful Himalayan atmosphere.',
   keywords: ['Kaafe', 'Rishikesh cafe', 'Ganga view', 'riverside cafe', 'best cafe Rishikesh', 'sunset cafe', 'yoga cafe'],
+  metadataBase: new URL('https://powerisvansh.github.io'),
   openGraph: {
     title: 'Kaafe – Best & Widest Ganga View Cafe in Rishikesh',
     description: 'Experience the widest Ganga view in Rishikesh. A luxury riverside cafe.',
