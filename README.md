@@ -20,6 +20,14 @@
 
 ---
 
+<p align="center">
+  <img src="public/images/hero-ganga.jpg" alt="Kaafe Hero - Ganga River Sunset" width="90%" style="border-radius: 12px;" />
+  <br />
+  <em>Hero section — panoramic Ganga river sunset view</em>
+</p>
+
+---
+
 ## ✦ Overview
 
 A luxury riverside cafe website for **Kaafe** — a serene sanctuary nestled along the Ganga in Rishikesh, offering the widest panoramic view of the sacred river. Built as a static Next.js export and deployed on **GitHub Pages**.
@@ -36,6 +44,25 @@ A luxury riverside cafe website for **Kaafe** — a serene sanctuary nestled alo
 | ⭐ **Testimonials** | Carousel with guest reviews, dot navigation |
 | 📍 **Contact** | Info cards, Google Maps embed, reservation form |
 | 💬 **WhatsApp Integration** | Direct booking via WhatsApp |
+
+---
+
+---
+
+## ✦ Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="public/images/hero-ganga.jpg" alt="Hero Section" width="100%" style="border-radius: 8px;" /><br /><em align="center">🏔️ Hero — Fullscreen Ganga View</em></td>
+      <td width="50%"><img src="public/images/cafe-interior.jpg" alt="About Section" width="100%" style="border-radius: 8px;" /><br /><em align="center">📖 About — Cafe Interior</em></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="public/images/dish-1.jpg" alt="Menu Items" width="100%" style="border-radius: 8px;" /><br /><em align="center">🍽️ Menu — Signature Dishes</em></td>
+      <td width="50%"><img src="public/images/gallery-1.jpg" alt="Gallery" width="100%" style="border-radius: 8px;" /><br /><em align="center">🖼️ Gallery — Riverside Moments</em></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
